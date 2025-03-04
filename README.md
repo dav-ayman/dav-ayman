@@ -8,8 +8,8 @@ Software Engineer | Malware Analyst | CTF Player
 
 <a href="https://www.twitter.com/X3non_C0der" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/X3non_C0der?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/X3nonC0der" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/X3nonC0der?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/></a><a href="https://www.github.com/dav-ayman" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/dav-ayman?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
@@ -28,14 +28,14 @@ src="https://img.shields.io/github/followers/X3nonC0der?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/X3nonC0der" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/david-ayman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@X3non_C0der" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/X3non_C0der" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/dav-ayman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/david-ayman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@X3non_C0der" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/X3non_C0der" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/X3nonC0der"><img src="https://github-readme-stats.vercel.app/api?username=X3nonC0der&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="X3nonC0der's GitHub stats" /></a>
+<a href="http://www.github.com/dav-ayman"><img src="https://github-readme-stats.vercel.app/api?username=dav-ayman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="David Ayman's GitHub stats" /></a>
 
-<a href="http://www.github.com/X3nonC0der"><img src="https://github-readme-streak-stats.herokuapp.com/?user=X3nonC0der&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/dav-ayman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dav-ayman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/X3nonC0der" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3nonC0der&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/dav-ayman" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav-ayman&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
