@@ -6,10 +6,12 @@ Software Engineer | Malware Analyst | CTF Player
 * 🌍  I'm based in Area 51
 * 🧠  I'm learning Cloud PaaS
 
-<a href="https://www.twitter.com/X3non_C0der" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/X3non_C0der?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/dav-ayman" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dav-ayman?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dav-ayman/dav-ayman/output/snake.svg" alt="Snake animation" />
+
 ### Skills
 
 <p align="left">
