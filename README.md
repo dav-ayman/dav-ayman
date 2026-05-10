@@ -1,43 +1,103 @@
-Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm David Ayman!
-===================================================================================================================================
+<div align="center">
 
-Software Engineer | Malware Analyst | CTF Player
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=0891B2&center=true&vCenter=true&width=650&lines=AI-First+Engineering+Lead;AWS+Solutions+Architect+%E2%80%94+Professional;FinTech+%26+Enterprise+SaaS;Builder+of+Things+That+Scale" alt="Typing SVG" />
 
-* 🌍  I'm based in Area 51
-* 🧠  I'm learning Cloud PaaS
+<br/>
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-david--ayman-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/david-ayman)
+[![Medium](https://img.shields.io/badge/Medium-@X3non__C0der-000000?style=flat-square&logo=medium)](https://medium.com/@X3non_C0der)
 
-<br clear="both">
+</div>
+
+---
+
+Tech Lead building mission-critical systems at scale — enterprise SaaS platforms, FinTech infrastructure, and national-scale government enforcement systems deployed across multiple countries.
+
+I treat AI as core engineering infrastructure — embedded into architecture, workflows, and incident response from day one. Not a productivity add-on.
+
+---
+
+## Focus Areas
+
+- **System Architecture** — multi-region distributed systems, microservices, event-driven design
+- **AI-First Engineering** — LLM tooling embedded into architecture, incident response, and developer workflows
+- **FinTech & Payments** — loan origination, credit scoring, PCI-DSS compliance, ISO 8583, payment gateway integration
+- **Platform Engineering** — multi-tenant SaaS, enterprise-scale observability, DevOps ownership
+- **Team Leadership** — building engineering teams from scratch, technical standards, architectural decision records
+
+---
+
+## Stack
+
+**AI & LLM**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+![Windsurf](https://img.shields.io/badge/Windsurf-1E90FF?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Observability**
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Sumo Logic](https://img.shields.io/badge/Sumo_Logic-000099?style=flat-square)
+
+**FinTech & Payments**
+
+![ISO8583](https://img.shields.io/badge/ISO_8583-555555?style=flat-square)
+![MPGS](https://img.shields.io/badge/Mastercard_MPGS-EB001B?style=flat-square&logo=mastercard&logoColor=white)
+![PCI-DSS](https://img.shields.io/badge/PCI--DSS_v4-006400?style=flat-square)
+![EMV](https://img.shields.io/badge/EMV-003087?style=flat-square)
+
+---
+
+## Certifications
+
+![AWS SAP](https://img.shields.io/badge/AWS_Solutions_Architect_Professional-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code_In_Action_%E2%80%94_Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Redis](https://img.shields.io/badge/Certified_Redis_Developer-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Certified_MongoDB_Developer-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle Java](https://img.shields.io/badge/Java_SE_8_Certified_%E2%80%94_Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dav-ayman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/dav-ayman/dav-ayman/output/snake.svg" alt="Snake animation" />
 
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/dav-ayman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/david-ayman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@X3non_C0der" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/X3non_C0der" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/dav-ayman"><img src="https://github-readme-stats.vercel.app/api?username=dav-ayman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="David Ayman's GitHub stats" /></a>
-
-<a href="http://www.github.com/dav-ayman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dav-ayman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/dav-ayman" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav-ayman&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
